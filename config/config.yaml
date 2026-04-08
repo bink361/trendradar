@@ -154,6 +154,14 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
+    - id: "baidu-guoneinews"
+      name: "百度国内新闻"
+      url: "https://news.baidu.com/n?cmd=4&class=civilnews&tn=rss"
+
+    - id: "baidu-guojinews"
+      name: "百度国际新闻"
+      url: "https://news.baidu.com/n?cmd=4&class=internews&tn=rss"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
